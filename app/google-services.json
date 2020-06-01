@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "366969136087",
+    "firebase_url": "https://gaurparivar-288e1.firebaseio.com",
+    "project_id": "gaurparivar-288e1",
+    "storage_bucket": "gaurparivar-288e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366969136087:android:3e566b46e7dc5ef689e192",
+        "android_client_info": {
+          "package_name": "com.google.samples.apps.sunflower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366969136087-ka0hvbpui41vet69ckeu90o4qa3n2ch2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKC3ZqOy1PqimpnVKt87mTz-X7qJJR2DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366969136087-ka0hvbpui41vet69ckeu90o4qa3n2ch2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366969136087:android:4ca83b93c11886ac89e192",
+        "android_client_info": {
+          "package_name": "com.rajputana.gaurparivar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366969136087-ka0hvbpui41vet69ckeu90o4qa3n2ch2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKC3ZqOy1PqimpnVKt87mTz-X7qJJR2DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366969136087-ka0hvbpui41vet69ckeu90o4qa3n2ch2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
